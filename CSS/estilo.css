@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    background-color: beige;
+}
+
+h1, p{
+    color: cadetblue;
+    /*padding, margin, border*/
+}
+
+.destaque{
+    background-color: aquamarine;
+}
+
+#info {
+    text-align: center;
+    background-color: aquamarine;
+    font-weight: bolder;
+}
+
+p.center {
+    color: blueviolet;
+}
+
+h1, h2, h3, h4 {
+    color: blue;
+    text-align: center;
+}
+
+a:link{
+    background-color: aqua;
+}
+
+a:hover{
+    background-color: bisque;
+}
