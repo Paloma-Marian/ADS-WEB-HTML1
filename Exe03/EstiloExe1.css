@@ -1,0 +1,30 @@
+div.relative {
+    text-align: center;
+    position: relative;
+    width: 450px;
+    height: 270px;
+    border: 3px solid #73AD21;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+} 
+
+div.absolute {
+    position: absolute;
+    top: 80px;
+    right: 0;
+    width: 300px;
+    height: 150px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+div.left {
+    float: left;
+}
+
+div.flexbox{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
